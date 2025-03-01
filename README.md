@@ -13,3 +13,12 @@ The dataset used for this project is available on Kaggle: [Data Science Job Sala
 ## Tableau Dashboard
 The final visualization is created using Tableau and includes multiple interactive charts and maps to provide a detailed analysis of salaries across different dimensions.
 - [Data Jobs Salary Dashboard](https://public.tableau.com/app/profile/anusree.o.r/viz/DataScienceJobSalaryAnalysis_17407685268370/Dashboard1)
+
+## Findings
+- **Average Salary by Experience Level and Employment Type:** Displays salary variations based on experience level and type of employment.
+- **Total Companies by Size and Location:** Visualizes the distribution of companies by size and location.
+- **Average Salary by Country:** A map showing average salaries across different countries.
+- **Top 10 Employee Residences:** Highlights the top countries where employees reside.
+- **Experience Level Distribution:** Shows the distribution of employees across different experience levels.
+- **Employment Type Distribution:** Illustrates the breakdown of employment types.
+- **Average Salary by Job Title and Experience Level:** Provides a detailed view of salaries by specific job titles and experience levels.
