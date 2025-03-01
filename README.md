@@ -12,4 +12,4 @@ The dataset used for this project is available on Kaggle: [Data Science Job Sala
 
 ## Tableau Dashboard
 The final visualization is created using Tableau and includes multiple interactive charts and maps to provide a detailed analysis of salaries across different dimensions.
-- [Data Jobs Salary Dashboard](https://public.tableau.com/app/profile/anusree.o.r/vizzes)
+- [Data Jobs Salary Dashboard](https://public.tableau.com/app/profile/anusree.o.r/viz/DataScienceJobSalaryAnalysis_17407685268370/Dashboard1)
