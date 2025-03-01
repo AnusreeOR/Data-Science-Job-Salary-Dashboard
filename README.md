@@ -6,3 +6,10 @@ This project involves creating an interactive Tableau dashboard to analyze salar
 
 ## Dataset
 The dataset used for this project is available on Kaggle: [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries).
+
+## Tools and Technologies
+- Tableau
+
+## Tableau Dashboard
+The final visualization is created using Tableau and includes multiple interactive charts and maps to provide a detailed analysis of salaries across different dimensions.
+- [Data Jobs Salary Dashboard](https://public.tableau.com/app/profile/anusree.o.r/vizzes)
