@@ -1,5 +1,5 @@
 # Data-Science-Job-Salary-Dashboard
-![Dashboard Screenshot](data-analysis-concept-illustration-flat-vector-design-statistical-and-data-analysis-for-business-finance-investment-concept-taking-part-in-business-activities-free-png.webp)
+![Dashboard Screenshot]("C:\Users\ANUSREE\Downloads\Dashboard 1 (1).png")
 
 ## Project Overview
 This project involves creating an interactive Tableau dashboard to analyze salaries for various data-related jobs (e.g., Data Analyst, Data Scientist) across different locations, experience levels, and employment types. The dashboard provides a comprehensive view of salary trends and distributions.
